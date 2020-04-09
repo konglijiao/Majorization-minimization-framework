@@ -17,4 +17,5 @@ This is a demo of Majorization-minimization algorithm exampling in one-dimension
 
 ## Reference
 [1] Qiu, Tianyu, Prabhu Babu, and Daniel P. Palomar. PRIME: Phase retrieval via majorization-minimization. IEEE Transactions on Signal Processing. 64.19 (2016): 5174-5186.
+
 [2] Sun, Ying, Prabhu Babu, and Daniel P. Palomar. Majorization-minimization algorithms in signal processing, communications, and machine learning. IEEE Transactions on Signal Processing. 65.3 (2016): 794-816.
